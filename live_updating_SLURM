@@ -1,0 +1,1 @@
+while true; do cat file.out ; sleep 5; done
